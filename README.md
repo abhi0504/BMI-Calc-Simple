@@ -10,4 +10,4 @@ You can calculate it using the formula below, where weight divided by height squ
 
 Your challenge is to create a function that takes height and weight as inputs and gives the calculated BMI value as an output.
 
-NOTE: You do not need to write any alerts or prompts. Your code should only contain the function. You do not need to call the function
+
